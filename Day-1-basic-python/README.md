@@ -1,6 +1,6 @@
 # Backend Development with Python
 ## Resources
-1. [Package tuto](https://realpython.com/python-modules-packages/)
+1. [Package tutorial](https://realpython.com/python-modules-packages/)
 2. [Exception handeling](https://www.youtube.com/watch?v=nlCKrKGHSSk)
 3. [Try-catch](https://www.youtube.com/watch?v=NIWwJbo-9_8)
 4. [OOP](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
