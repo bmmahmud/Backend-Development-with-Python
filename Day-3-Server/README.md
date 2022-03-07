@@ -19,9 +19,3 @@
 * [What is an API? (Application Programming Interface)](https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API)
 * [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
 * [HTTP Request Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
-
-
-![Day-3](day3.png)
-<p align="center">
-  <img src="https://drive.google.com/file/d/1DHLAX_BuitShQ63G-yXiv_TTCqujKUzP/view?usp=sharing" width="350" alt="Day-3">
-</p>
