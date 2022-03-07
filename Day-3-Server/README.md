@@ -23,5 +23,5 @@
 
 ![Day-3](day3.png)
 <p align="center">
-  <img src="day3.png" width="350" alt="Day-3">
+  <img src="https://drive.google.com/file/d/1DHLAX_BuitShQ63G-yXiv_TTCqujKUzP/view?usp=sharing" width="350" alt="Day-3">
 </p>
