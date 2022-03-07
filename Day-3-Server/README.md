@@ -2,11 +2,11 @@
 
 ## Dicussions Topics 
 * Server - Web, App
- - Difference between Web-server and application server.
+  - Difference between Web-server and application server.
 * HTTP Methods
- - Difference types request methods, response methods and status code.
+  - Difference types request methods, response methods and status code.
 * API 
- - Different API architecture and comparison between different them.
+  - Different API architecture and comparison between different them.
 
 
 ### Notes
