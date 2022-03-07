@@ -2,11 +2,11 @@
 
 ## Dicussions Topics 
 * Server - Web, App
- - Difference between Web-server and application server.
+  - Difference between Web-server and application server.
 * HTTP Methods
- - Difference types request methods, response methods and status code.
+  - Difference types request methods, response methods and status code.
 * API 
- - Different API architecture and comparison between different them.
+  - Different API architecture and comparison between different them.
 
 
 ### Notes
@@ -19,4 +19,6 @@
 * [What is an API? (Application Programming Interface)](https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API)
 * [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
 * [HTTP Request Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
+
+
 ![Day-3](day3.png)
