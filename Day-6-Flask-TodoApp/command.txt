@@ -1,0 +1,8 @@
+# virtual envirnment
+python -m venv name
+venv\Scripts\activate
+
+# Migrate commands
+flask db init
+flask db migrate
+flask db upgrade
